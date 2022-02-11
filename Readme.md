@@ -17,7 +17,7 @@
 ##### Deploy
 You can deploy this bot anywhere.
 
-**[Watch Deploying Tutorial...](https://youtu.be/OTqZmADyOjU)**
+**[Watch Deploying Tutorial...](https://t.me/+0K7y186Sd084MWU1)**
 
 <details><summary>Deploy To Heroku</summary>
 <p>
